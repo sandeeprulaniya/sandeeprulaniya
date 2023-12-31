@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
+<p>Full-stack developer with a passion for building dynamic, responsive web applications using the MERN stack. Skilled in MongoDB, Express.js, React.js, and Node.js, with a strong understanding of front-end and back-end web development. Strong problem-solving abilities and a focus on delivering high-quality, user-friendly experiences. Constantly seeking new challenges and opportunities to expand my skillset.</p>
+
 
 - 💬 Ask me about **MERN Stack**
 
